@@ -24,7 +24,7 @@ html, body {
 
 header {
     color: white;
-    background-color: orange;
+    background-image: linear-gradient(to bottom, darkorange, orange);
     text-align: center;
 }
 
@@ -77,7 +77,7 @@ section > p {
 }
 
 #img01 {
-    background-image: url("../imagens/rosalaranja2.png");
+    background-image: url("../imagens/fundolaranja01.png");
     background-position: center, center;
     background-size: cover;
 }
